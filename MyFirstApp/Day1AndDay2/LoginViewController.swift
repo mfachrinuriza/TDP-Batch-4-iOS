@@ -154,7 +154,3 @@ extension LoginViewController: UITextFieldDelegate {
         self.view.endEditing(true)
     }
 }
-
-#Preview{
-    return LoginViewController()
-}
